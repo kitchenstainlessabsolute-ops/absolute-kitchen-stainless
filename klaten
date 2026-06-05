@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Absolute Kitchen Stainless Klaten | Kitchen Equipment</title>
+    <meta name="description" content="Fabrikasi Custom Stainless Steel Kitchen Equipment - Meja, Sink, Exhaust Hood, Kompor Restoran - Klaten">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Arial, sans-serif; line-height: 1.6; color: #333; background: #f9fafb; }
+        header { background: linear-gradient(135deg, #1e3a8a, #3b82f6); color: white; padding: 1rem 0; position: sticky; top: 0; z-index: 100; }
+        nav { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; padding: 0 20px; }
+        .logo { font-size: 1.8rem; font-weight: bold; }
+        .hero { 
+            background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url('https://picsum.photos/id/1060/1920/900') center/cover; 
+            height: 85vh; display: flex; align-items: center; text-align: center; color: white; 
+        }
+        .hero-content { max-width: 900px; margin: 0 auto; padding: 0 20px; }
+        .hero h1 { font-size: 3.2rem; margin-bottom: 1rem; }
+        .hero p { font-size: 1.4rem; margin-bottom: 2rem; }
+        .btn { 
+            display: inline-block; background: #f59e0b; color: white; padding: 14px 32px; 
+            border-radius: 50px; text-decoration: none; font-weight: bold; margin: 10px; 
+        }
+        .wa-btn { background: #25D366; }
+        section { padding: 70px 20px; max-width: 1200px; margin: 0 auto; }
+        h2 { text-align: center; color: #1e3a8a; font-size: 2.4rem; margin-bottom: 50px; }
+        .products { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; }
+        .product-card { 
+            background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.1); 
+            transition: 0.3s; text-align: center;
+        }
+        .product-card:hover { transform: translateY(-10px); }
+        .product-card img { width: 100%; height: 220px; object-fit: cover; }
+        .product-card h3 { padding: 15px; background: #f1f5f9; color: #1e3a8a; }
+        .qr-container { text-align: center; margin: 30px 0; }
+        .qr-container img { width: 180px; border: 3px solid #1e3a8a; border-radius: 12px; }
+        footer { background: #1e3a8a; color: white; text-align: center; padding: 50px 20px; }
+        .tagar { color: #60a5fa; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">Absolute Kitchen</div>
+            <div>
+                <a href="https://wa.me/6282133830308" class="btn wa-btn" target="_blank">💬 WhatsApp</a>
+            </div>
+        </nav>
+    </header>
+
+    <section class="hero" id="home">
+        <div class="hero-content">
+            <h1>ABSOLUTE KITCHEN STAINLESS</h1>
+            <p style="font-size:1.5rem;">Fabrikasi Custom Kitchen Equipment Profesional</p>
+            <p>Meja • Sink • Exhaust Hood • Kompor • Rack • Trolley • dll</p>
+            <a href="https://wa.me/6282133830308" class="btn" target="_blank">Hubungi Kami</a>
+            <a href="#produk" class="btn" style="background:#1e40af;">Lihat Produk</a>
+        </div>
+    </section>
+
+    <section id="produk">
+        <h2>Produk Unggulan 2026</h2>
+        <div class="products">
+            <div class="product-card">
+                <img src="https://picsum.photos/id/1015/600/400" alt="Meja Stainless">
+                <h3>Meja Dapur Stainless</h3>
+                <p>1 / 2 / 3 Tier + Undershelf • Custom Ukuran</p>
+            </div>
+            <div class="product-card">
+                <img src="https://picsum.photos/id/201/600/400" alt="Sink">
+                <h3>Sink & Wastafel</h3>
+                <p>1 Bowl, 2 Bowl, Cabinet Sink • Dengan Drainboard</p>
+            </div>
+            <div class="product-card">
+                <img src="https://picsum.photos/id/106/600/400" alt="Hood">
+                <h3>Exhaust Hood</h3>
+                <p>Custom Ducting • Penghilang Asap Dapur</p>
+            </div>
+            <div class="product-card">
+                <img src="https://picsum.photos/id/133/600/400" alt="Kompor">
+                <h3>Kwali Range & Gas Stove</h3>
+                <p>1-6 Tungku • High & Medium Pressure</p>
+            </div>
+        </div>
+    </section>
+
+    <section style="background:#f8fafc;">
+        <h2>Katalog Lengkap 2026</h2>
+        <p style="text-align:center; max-width:800px; margin:0 auto 30px;">
+            Kami menyediakan ratusan model kitchen equipment stainless food grade untuk restoran, hotel, cafe, rumah sakit & catering.
+        </p>
+        <div style="text-align:center;">
+            <a href="https://wa.me/6282133830308?text=Mohon%20katalog%20lengkap%202026" class="btn" target="_blank">📥 Minta Katalog PDF</a>
+        </div>
+    </section>
+
+    <section id="kontak">
+        <h2>Hubungi Kami</h2>
+        <div style="text-align:center; background:white; padding:40px; border-radius:16px; box-shadow:0 5px 20px rgba(0,0,0,0.1); max-width:700px; margin:0 auto;">
+            <p style="font-size:1.4rem; margin-bottom:20px;">
+                <strong>WA:</strong> <a href="https://wa.me/6282133830308" style="color:#25D366; text-decoration:none;">0821-3383-0308</a>
+            </p>
+            <p><strong>Alamat:</strong> Jl. Solo-Yogyakarta, Jayan, Mlese, Kec. Ceper, Kab. Klaten</p>
+            
+            <div class="qr-container">
+                <p><strong>Scan QR WhatsApp</strong></p>
+                <img src="/home/workdir/attachments/WA LS.png" alt="QR WhatsApp">
+            </div>
+
+            <a href="https://wa.me/6282133830308" class="btn wa-btn" target="_blank" style="font-size:1.3rem; padding:16px 50px;">
+                💬 Chat WhatsApp Langsung
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Absolute Kitchen Stainless Klaten • All Rights Reserved</p>
+        <p>Harga Produsen • Custom Sesuai Kebutuhan • Kirim Seluruh Indonesia</p>
+        <p class="tagar">#AbsoluteStainless #KitchenStainless #MejaStainless #FabrikasiStainless #StainlessKlaten #DapurStainless #KitchenEquipment #AbsoluteKitchen</p>
+    </footer>
+
+</body>
+</html>
