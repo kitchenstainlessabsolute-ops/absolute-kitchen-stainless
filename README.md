@@ -34,10 +34,6 @@ Absolute Kitchen Stainless Klaten adalah produsen dan fabrikator **kitchen equip
 
 - **WhatsApp:** [0821-3383-0308](https://wa.me/6282133830308)
 - **Alamat:** Jl. Solo-Yogyakarta, Jayan, Mlese, Kec. Ceper, Kab. Klaten 57465
-- **Email:** (bisa ditambahkan nanti)
+- **Email:**kitchenstainlessabsolute@gmail.com
 
-## 🚀 Cara Menggunakan Website
-
-1. Clone repository ini
-2. Buka file `index.html` di browser
-3. Atau deploy ke **Netlify / GitHub Pages**
+ 
